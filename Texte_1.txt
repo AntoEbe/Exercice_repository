@@ -1,15 +1,9 @@
 Test liste  de course : 
 
-Tomate
-Concombre
-Pate
-Fromage 
 
-///
-///
-///
 
-Fichier modifier 15h33
+Fichier modifier 16h00
+
 
 ///
 ///
